@@ -1,0 +1,14 @@
+C:\Users\BB7211\source\repos\primer-ejercicio\primer-ejercicio\bin\Debug\net6.0\primer-ejercicio.exe
+C:\Users\BB7211\source\repos\primer-ejercicio\primer-ejercicio\bin\Debug\net6.0\primer-ejercicio.deps.json
+C:\Users\BB7211\source\repos\primer-ejercicio\primer-ejercicio\bin\Debug\net6.0\primer-ejercicio.runtimeconfig.json
+C:\Users\BB7211\source\repos\primer-ejercicio\primer-ejercicio\bin\Debug\net6.0\primer-ejercicio.dll
+C:\Users\BB7211\source\repos\primer-ejercicio\primer-ejercicio\bin\Debug\net6.0\primer-ejercicio.pdb
+C:\Users\BB7211\source\repos\primer-ejercicio\primer-ejercicio\obj\Debug\net6.0\primer-ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BB7211\source\repos\primer-ejercicio\primer-ejercicio\obj\Debug\net6.0\primer-ejercicio.AssemblyInfoInputs.cache
+C:\Users\BB7211\source\repos\primer-ejercicio\primer-ejercicio\obj\Debug\net6.0\primer-ejercicio.AssemblyInfo.cs
+C:\Users\BB7211\source\repos\primer-ejercicio\primer-ejercicio\obj\Debug\net6.0\primer-ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\BB7211\source\repos\primer-ejercicio\primer-ejercicio\obj\Debug\net6.0\primer-ejercicio.dll
+C:\Users\BB7211\source\repos\primer-ejercicio\primer-ejercicio\obj\Debug\net6.0\refint\primer-ejercicio.dll
+C:\Users\BB7211\source\repos\primer-ejercicio\primer-ejercicio\obj\Debug\net6.0\primer-ejercicio.pdb
+C:\Users\BB7211\source\repos\primer-ejercicio\primer-ejercicio\obj\Debug\net6.0\primer-ejercicio.genruntimeconfig.cache
+C:\Users\BB7211\source\repos\primer-ejercicio\primer-ejercicio\obj\Debug\net6.0\ref\primer-ejercicio.dll
