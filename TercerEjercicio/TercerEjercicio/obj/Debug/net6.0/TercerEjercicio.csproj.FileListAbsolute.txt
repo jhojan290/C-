@@ -1,0 +1,14 @@
+C:\Users\BB7211\source\repos\TercerEjercicio\TercerEjercicio\bin\Debug\net6.0\TercerEjercicio.exe
+C:\Users\BB7211\source\repos\TercerEjercicio\TercerEjercicio\bin\Debug\net6.0\TercerEjercicio.deps.json
+C:\Users\BB7211\source\repos\TercerEjercicio\TercerEjercicio\bin\Debug\net6.0\TercerEjercicio.runtimeconfig.json
+C:\Users\BB7211\source\repos\TercerEjercicio\TercerEjercicio\bin\Debug\net6.0\TercerEjercicio.dll
+C:\Users\BB7211\source\repos\TercerEjercicio\TercerEjercicio\bin\Debug\net6.0\TercerEjercicio.pdb
+C:\Users\BB7211\source\repos\TercerEjercicio\TercerEjercicio\obj\Debug\net6.0\TercerEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BB7211\source\repos\TercerEjercicio\TercerEjercicio\obj\Debug\net6.0\TercerEjercicio.AssemblyInfoInputs.cache
+C:\Users\BB7211\source\repos\TercerEjercicio\TercerEjercicio\obj\Debug\net6.0\TercerEjercicio.AssemblyInfo.cs
+C:\Users\BB7211\source\repos\TercerEjercicio\TercerEjercicio\obj\Debug\net6.0\TercerEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\BB7211\source\repos\TercerEjercicio\TercerEjercicio\obj\Debug\net6.0\TercerEjercicio.dll
+C:\Users\BB7211\source\repos\TercerEjercicio\TercerEjercicio\obj\Debug\net6.0\refint\TercerEjercicio.dll
+C:\Users\BB7211\source\repos\TercerEjercicio\TercerEjercicio\obj\Debug\net6.0\TercerEjercicio.pdb
+C:\Users\BB7211\source\repos\TercerEjercicio\TercerEjercicio\obj\Debug\net6.0\TercerEjercicio.genruntimeconfig.cache
+C:\Users\BB7211\source\repos\TercerEjercicio\TercerEjercicio\obj\Debug\net6.0\ref\TercerEjercicio.dll
