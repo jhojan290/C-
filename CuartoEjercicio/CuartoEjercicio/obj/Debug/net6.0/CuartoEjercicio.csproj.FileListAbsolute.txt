@@ -1,0 +1,14 @@
+C:\Users\BB7211\source\repos\CuartoEjercicio\CuartoEjercicio\bin\Debug\net6.0\CuartoEjercicio.exe
+C:\Users\BB7211\source\repos\CuartoEjercicio\CuartoEjercicio\bin\Debug\net6.0\CuartoEjercicio.deps.json
+C:\Users\BB7211\source\repos\CuartoEjercicio\CuartoEjercicio\bin\Debug\net6.0\CuartoEjercicio.runtimeconfig.json
+C:\Users\BB7211\source\repos\CuartoEjercicio\CuartoEjercicio\bin\Debug\net6.0\CuartoEjercicio.dll
+C:\Users\BB7211\source\repos\CuartoEjercicio\CuartoEjercicio\bin\Debug\net6.0\CuartoEjercicio.pdb
+C:\Users\BB7211\source\repos\CuartoEjercicio\CuartoEjercicio\obj\Debug\net6.0\CuartoEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BB7211\source\repos\CuartoEjercicio\CuartoEjercicio\obj\Debug\net6.0\CuartoEjercicio.AssemblyInfoInputs.cache
+C:\Users\BB7211\source\repos\CuartoEjercicio\CuartoEjercicio\obj\Debug\net6.0\CuartoEjercicio.AssemblyInfo.cs
+C:\Users\BB7211\source\repos\CuartoEjercicio\CuartoEjercicio\obj\Debug\net6.0\CuartoEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\BB7211\source\repos\CuartoEjercicio\CuartoEjercicio\obj\Debug\net6.0\CuartoEjercicio.dll
+C:\Users\BB7211\source\repos\CuartoEjercicio\CuartoEjercicio\obj\Debug\net6.0\refint\CuartoEjercicio.dll
+C:\Users\BB7211\source\repos\CuartoEjercicio\CuartoEjercicio\obj\Debug\net6.0\CuartoEjercicio.pdb
+C:\Users\BB7211\source\repos\CuartoEjercicio\CuartoEjercicio\obj\Debug\net6.0\CuartoEjercicio.genruntimeconfig.cache
+C:\Users\BB7211\source\repos\CuartoEjercicio\CuartoEjercicio\obj\Debug\net6.0\ref\CuartoEjercicio.dll
