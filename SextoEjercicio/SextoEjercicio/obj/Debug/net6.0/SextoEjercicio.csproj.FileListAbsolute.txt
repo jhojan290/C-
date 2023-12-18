@@ -1,0 +1,15 @@
+C:\Users\BB7211\source\repos\SextoEjercicio\SextoEjercicio\bin\Debug\net6.0\SextoEjercicio.exe
+C:\Users\BB7211\source\repos\SextoEjercicio\SextoEjercicio\bin\Debug\net6.0\SextoEjercicio.deps.json
+C:\Users\BB7211\source\repos\SextoEjercicio\SextoEjercicio\bin\Debug\net6.0\SextoEjercicio.runtimeconfig.json
+C:\Users\BB7211\source\repos\SextoEjercicio\SextoEjercicio\bin\Debug\net6.0\SextoEjercicio.dll
+C:\Users\BB7211\source\repos\SextoEjercicio\SextoEjercicio\bin\Debug\net6.0\SextoEjercicio.pdb
+C:\Users\BB7211\source\repos\SextoEjercicio\SextoEjercicio\obj\Debug\net6.0\SextoEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BB7211\source\repos\SextoEjercicio\SextoEjercicio\obj\Debug\net6.0\SextoEjercicio.AssemblyInfoInputs.cache
+C:\Users\BB7211\source\repos\SextoEjercicio\SextoEjercicio\obj\Debug\net6.0\SextoEjercicio.AssemblyInfo.cs
+C:\Users\BB7211\source\repos\SextoEjercicio\SextoEjercicio\obj\Debug\net6.0\SextoEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\BB7211\source\repos\SextoEjercicio\SextoEjercicio\obj\Debug\net6.0\SextoEjercicio.sourcelink.json
+C:\Users\BB7211\source\repos\SextoEjercicio\SextoEjercicio\obj\Debug\net6.0\SextoEjercicio.dll
+C:\Users\BB7211\source\repos\SextoEjercicio\SextoEjercicio\obj\Debug\net6.0\refint\SextoEjercicio.dll
+C:\Users\BB7211\source\repos\SextoEjercicio\SextoEjercicio\obj\Debug\net6.0\SextoEjercicio.pdb
+C:\Users\BB7211\source\repos\SextoEjercicio\SextoEjercicio\obj\Debug\net6.0\SextoEjercicio.genruntimeconfig.cache
+C:\Users\BB7211\source\repos\SextoEjercicio\SextoEjercicio\obj\Debug\net6.0\ref\SextoEjercicio.dll
