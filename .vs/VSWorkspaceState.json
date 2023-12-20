@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SeptimoEjercicio",
+    "\\SeptimoEjercicio\\SeptimoEjercicio"
   ],
-  "SelectedNode": "\\SextoEjercicio.sln",
+  "SelectedNode": "\\SeptimoEjercicio\\SeptimoEjercicio\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

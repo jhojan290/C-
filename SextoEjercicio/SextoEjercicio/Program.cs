@@ -82,9 +82,30 @@
 
             //--------------------------------------------------------------------------------------------
 
+            // Estrcutura Switch
 
-             
+            Console.WriteLine("Elige medio de transporte (carro, tren, avion");
 
+            string medioTransporte = Console.ReadLine();
+
+            switch (medioTransporte)
+            {
+                case "carro":
+                    Console.WriteLine("velocidad media: 100 km/h");
+                    break;
+
+                case "tren":
+                    Console.WriteLine("velocidad media: 250 km/h");
+                     break;
+
+                case "avion":
+                    Console.WriteLine("velocidad media: 800 km/h");
+                    break;
+
+                default:
+                    Console.WriteLine("transporte no completado");
+                    break;
+            }
         }
 
     }
