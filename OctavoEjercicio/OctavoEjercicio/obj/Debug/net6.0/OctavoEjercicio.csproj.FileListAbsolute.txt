@@ -1,0 +1,15 @@
+C:\Users\BB7211\source\repos\OctavoEjercicio\OctavoEjercicio\bin\Debug\net6.0\OctavoEjercicio.exe
+C:\Users\BB7211\source\repos\OctavoEjercicio\OctavoEjercicio\bin\Debug\net6.0\OctavoEjercicio.deps.json
+C:\Users\BB7211\source\repos\OctavoEjercicio\OctavoEjercicio\bin\Debug\net6.0\OctavoEjercicio.runtimeconfig.json
+C:\Users\BB7211\source\repos\OctavoEjercicio\OctavoEjercicio\bin\Debug\net6.0\OctavoEjercicio.dll
+C:\Users\BB7211\source\repos\OctavoEjercicio\OctavoEjercicio\bin\Debug\net6.0\OctavoEjercicio.pdb
+C:\Users\BB7211\source\repos\OctavoEjercicio\OctavoEjercicio\obj\Debug\net6.0\OctavoEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BB7211\source\repos\OctavoEjercicio\OctavoEjercicio\obj\Debug\net6.0\OctavoEjercicio.AssemblyInfoInputs.cache
+C:\Users\BB7211\source\repos\OctavoEjercicio\OctavoEjercicio\obj\Debug\net6.0\OctavoEjercicio.AssemblyInfo.cs
+C:\Users\BB7211\source\repos\OctavoEjercicio\OctavoEjercicio\obj\Debug\net6.0\OctavoEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\BB7211\source\repos\OctavoEjercicio\OctavoEjercicio\obj\Debug\net6.0\OctavoEjercicio.sourcelink.json
+C:\Users\BB7211\source\repos\OctavoEjercicio\OctavoEjercicio\obj\Debug\net6.0\OctavoEjercicio.dll
+C:\Users\BB7211\source\repos\OctavoEjercicio\OctavoEjercicio\obj\Debug\net6.0\refint\OctavoEjercicio.dll
+C:\Users\BB7211\source\repos\OctavoEjercicio\OctavoEjercicio\obj\Debug\net6.0\OctavoEjercicio.pdb
+C:\Users\BB7211\source\repos\OctavoEjercicio\OctavoEjercicio\obj\Debug\net6.0\OctavoEjercicio.genruntimeconfig.cache
+C:\Users\BB7211\source\repos\OctavoEjercicio\OctavoEjercicio\obj\Debug\net6.0\ref\OctavoEjercicio.dll

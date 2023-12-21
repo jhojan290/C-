@@ -106,14 +106,15 @@
 
             int aleatorio = numero.Next(1, 100);
 
-            int minumero = 101;
+            int minumero;
 
             int intentos = 0;
 
             Console.WriteLine("Introduce un número entre 0 y 100");
 
-            
-            do {
+
+            do
+            {
                 intentos++;
 
                 minumero = int.Parse(Console.ReadLine());
@@ -122,7 +123,7 @@
 
                 if (minumero < aleatorio) Console.WriteLine("El n° es más alto");
 
-            } while (aleatorio != minumero)
+            } while (aleatorio != minumero);
 
                 Console.WriteLine($"Correcto has necesitado {intentos} intentos");
 
