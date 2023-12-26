@@ -1,4 +1,7 @@
-﻿namespace SeptimoEjercicio
+﻿using System.Linq.Expressions;
+using System.Reflection.Metadata;
+
+namespace SeptimoEjercicio
 {
     class Program
     {
@@ -39,15 +42,20 @@
                 //    minumero = 0;
                 //}
 
-                catch (Exception ex) // Con esta excepción se engloban todas las excepciones posibles, ya que esta
-                // clase es como la clase padre de todas las excepciones, si se van a generar muchas excepciones solo con poner esta clase basta    
+                //catch (Exception ex) // Con esta excepción se engloban todas las excepciones posibles, ya que esta
+                //// clase es como la clase padre de todas las excepciones, si se van a generar muchas excepciones solo con poner esta clase basta    
+                //{
+                //    Console.WriteLine("No has introducido un valor númerico válido. Se toma como n° introducido el 0");
+                //    //Console.WriteLine(ex.Message); para conocer que tipo de excepción se está generando, ex actúa como un objeto que tiene
+                //    // asociados varios métodos y propiedades
+                //    minumero = 0;
+                //}
+
+                catch (Exception e) when (e.GetType() != typeof(FormatException))
                 {
-                    Console.WriteLine("No has introducido un valor númerico válido. Se toma como n° introducido el 0");
-                    //Console.WriteLine(ex.Message); para conocer que tipo de excepción se está generando, ex actúa como un objeto que tiene
-                    // asociados varios métodos
+                    Console.WriteLine("Ha habido un error");
                     minumero = 0;
                 }
-
 
                 if (minumero > aleatorio) Console.WriteLine("El n° es más bajo");
 
@@ -62,8 +70,14 @@
 
             // Exception
             // SystemException - las últimas dos se derivan de esta
-            // FormatException - OverflowException
+            // FormatException - OverflowException, la primera se usa en caso tal de introducir un carácter no numérico y la segunda en 
+            // caso tal de exceder la cantidad de caracteres
 
+
+            // catch (FormatException e) las excepciones especifícas van primero  
+            // catch (Exception e) las excepciones generales van después de las mencionadas anteriormente
+
+               
         }
 
     }

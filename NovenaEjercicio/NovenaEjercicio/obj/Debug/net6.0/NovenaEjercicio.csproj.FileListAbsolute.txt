@@ -1,0 +1,15 @@
+C:\Users\BB7211\source\repos\NovenaEjercicio\NovenaEjercicio\bin\Debug\net6.0\NovenaEjercicio.exe
+C:\Users\BB7211\source\repos\NovenaEjercicio\NovenaEjercicio\bin\Debug\net6.0\NovenaEjercicio.deps.json
+C:\Users\BB7211\source\repos\NovenaEjercicio\NovenaEjercicio\bin\Debug\net6.0\NovenaEjercicio.runtimeconfig.json
+C:\Users\BB7211\source\repos\NovenaEjercicio\NovenaEjercicio\bin\Debug\net6.0\NovenaEjercicio.dll
+C:\Users\BB7211\source\repos\NovenaEjercicio\NovenaEjercicio\bin\Debug\net6.0\NovenaEjercicio.pdb
+C:\Users\BB7211\source\repos\NovenaEjercicio\NovenaEjercicio\obj\Debug\net6.0\NovenaEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BB7211\source\repos\NovenaEjercicio\NovenaEjercicio\obj\Debug\net6.0\NovenaEjercicio.AssemblyInfoInputs.cache
+C:\Users\BB7211\source\repos\NovenaEjercicio\NovenaEjercicio\obj\Debug\net6.0\NovenaEjercicio.AssemblyInfo.cs
+C:\Users\BB7211\source\repos\NovenaEjercicio\NovenaEjercicio\obj\Debug\net6.0\NovenaEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\BB7211\source\repos\NovenaEjercicio\NovenaEjercicio\obj\Debug\net6.0\NovenaEjercicio.sourcelink.json
+C:\Users\BB7211\source\repos\NovenaEjercicio\NovenaEjercicio\obj\Debug\net6.0\NovenaEjercicio.dll
+C:\Users\BB7211\source\repos\NovenaEjercicio\NovenaEjercicio\obj\Debug\net6.0\refint\NovenaEjercicio.dll
+C:\Users\BB7211\source\repos\NovenaEjercicio\NovenaEjercicio\obj\Debug\net6.0\NovenaEjercicio.pdb
+C:\Users\BB7211\source\repos\NovenaEjercicio\NovenaEjercicio\obj\Debug\net6.0\NovenaEjercicio.genruntimeconfig.cache
+C:\Users\BB7211\source\repos\NovenaEjercicio\NovenaEjercicio\obj\Debug\net6.0\ref\NovenaEjercicio.dll
