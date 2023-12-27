@@ -1,7 +1,4 @@
-﻿using System.Linq.Expressions;
-using System.Reflection.Metadata;
-
-namespace SeptimoEjercicio
+﻿namespace OctavoEjercicio
 {
     class Program
     {
@@ -51,9 +48,16 @@ namespace SeptimoEjercicio
                 //    minumero = 0;
                 //}
 
-                catch (Exception e) when (e.GetType() != typeof(FormatException))
+                catch (Exception e) when (e.GetType() != typeof(FormatException)) // Este tipo de format exception con filtros, ayuda a excluir un tipo de
+                // excepción, aquí se está indicando que mientras el tipo de exception sea diferente a (FormatException) se podrá ejecutar lo que está en el catch
                 {
                     Console.WriteLine("Ha habido un error");
+                    minumero = 0;
+                }
+
+                catch (FormatException e)
+                {
+                    Console.WriteLine("Has introducido texto");
                     minumero = 0;
                 }
 
@@ -77,7 +81,6 @@ namespace SeptimoEjercicio
             // catch (FormatException e) las excepciones especifícas van primero  
             // catch (Exception e) las excepciones generales van después de las mencionadas anteriormente
 
-               
         }
 
     }

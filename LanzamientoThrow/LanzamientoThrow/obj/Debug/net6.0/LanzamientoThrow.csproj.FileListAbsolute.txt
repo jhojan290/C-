@@ -1,0 +1,15 @@
+C:\Users\BB7211\source\repos\LanzamientoThrow\LanzamientoThrow\bin\Debug\net6.0\LanzamientoThrow.exe
+C:\Users\BB7211\source\repos\LanzamientoThrow\LanzamientoThrow\bin\Debug\net6.0\LanzamientoThrow.deps.json
+C:\Users\BB7211\source\repos\LanzamientoThrow\LanzamientoThrow\bin\Debug\net6.0\LanzamientoThrow.runtimeconfig.json
+C:\Users\BB7211\source\repos\LanzamientoThrow\LanzamientoThrow\bin\Debug\net6.0\LanzamientoThrow.dll
+C:\Users\BB7211\source\repos\LanzamientoThrow\LanzamientoThrow\bin\Debug\net6.0\LanzamientoThrow.pdb
+C:\Users\BB7211\source\repos\LanzamientoThrow\LanzamientoThrow\obj\Debug\net6.0\LanzamientoThrow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BB7211\source\repos\LanzamientoThrow\LanzamientoThrow\obj\Debug\net6.0\LanzamientoThrow.AssemblyInfoInputs.cache
+C:\Users\BB7211\source\repos\LanzamientoThrow\LanzamientoThrow\obj\Debug\net6.0\LanzamientoThrow.AssemblyInfo.cs
+C:\Users\BB7211\source\repos\LanzamientoThrow\LanzamientoThrow\obj\Debug\net6.0\LanzamientoThrow.csproj.CoreCompileInputs.cache
+C:\Users\BB7211\source\repos\LanzamientoThrow\LanzamientoThrow\obj\Debug\net6.0\LanzamientoThrow.sourcelink.json
+C:\Users\BB7211\source\repos\LanzamientoThrow\LanzamientoThrow\obj\Debug\net6.0\LanzamientoThrow.dll
+C:\Users\BB7211\source\repos\LanzamientoThrow\LanzamientoThrow\obj\Debug\net6.0\refint\LanzamientoThrow.dll
+C:\Users\BB7211\source\repos\LanzamientoThrow\LanzamientoThrow\obj\Debug\net6.0\LanzamientoThrow.pdb
+C:\Users\BB7211\source\repos\LanzamientoThrow\LanzamientoThrow\obj\Debug\net6.0\LanzamientoThrow.genruntimeconfig.cache
+C:\Users\BB7211\source\repos\LanzamientoThrow\LanzamientoThrow\obj\Debug\net6.0\ref\LanzamientoThrow.dll
