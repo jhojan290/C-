@@ -9,11 +9,11 @@
             miCirculo = new Circulo(); // Iniciación de variable/objeto de tipo Círculo. Instanciar una clase
                                        // Instanciación. Ejemplarización. Creación de ejemplar de clase
 
-            Console.WriteLine(miCirculo.calculoArea(5));
+            Console.WriteLine(miCirculo.CalculoArea(5));
 
             Circulo miCirculo2 = new Circulo();
 
-            Console.WriteLine(miCirculo2.calculoArea(9));
+            Console.WriteLine(miCirculo2.CalculoArea(9));
         }
 
     }
@@ -22,7 +22,7 @@
     {
         const double pi = 3.1416; // propiedad de la clase circulo. Campo de clase
 
-        public double calculoArea(int radio) // método de clase. ¿Qué pueden hacer los objetos de tipo círculo?
+        public double CalculoArea(int radio) // método de clase. ¿Qué pueden hacer los objetos de tipo círculo?
         {
             return pi * radio * radio;
         }
