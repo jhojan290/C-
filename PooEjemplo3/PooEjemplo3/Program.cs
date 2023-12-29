@@ -21,11 +21,9 @@ namespace PooEjemplo3
         }
 
     }
-
     partial class Coche
 
     {
-
         public Coche()
         {
             ruedas = 4;

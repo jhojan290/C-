@@ -1,11 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\OctavoEjercicio",
     "\\OctavoEjercicio\\OctavoEjercicio",
-    "\\PooEjemplo1",
-    "\\PooEjemplo1\\PooEjemplo1"
+    "\\PooEjemplo1\\PooEjemplo1",
+    "\\PooEjemplo3",
+    "\\PooEjemplo3\\PooEjemplo3"
   ],
-  "SelectedNode": "\\PooEjemplo1\\PooEjemplo1\\Program.cs",
+  "SelectedNode": "\\PooEjemplo3\\PooEjemplo3\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
