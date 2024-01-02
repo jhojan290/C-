@@ -3,3 +3,13 @@ C:\Users\BB7211\source\repos\PooEjemplo4\PooEjemplo4\obj\Debug\net6.0\PooEjemplo
 C:\Users\BB7211\source\repos\PooEjemplo4\PooEjemplo4\obj\Debug\net6.0\PooEjemplo4.AssemblyInfo.cs
 C:\Users\BB7211\source\repos\PooEjemplo4\PooEjemplo4\obj\Debug\net6.0\PooEjemplo4.csproj.CoreCompileInputs.cache
 C:\Users\BB7211\source\repos\PooEjemplo4\PooEjemplo4\obj\Debug\net6.0\PooEjemplo4.sourcelink.json
+C:\Users\BB7211\source\repos\PooEjemplo4\PooEjemplo4\bin\Debug\net6.0\PooEjemplo4.exe
+C:\Users\BB7211\source\repos\PooEjemplo4\PooEjemplo4\bin\Debug\net6.0\PooEjemplo4.deps.json
+C:\Users\BB7211\source\repos\PooEjemplo4\PooEjemplo4\bin\Debug\net6.0\PooEjemplo4.runtimeconfig.json
+C:\Users\BB7211\source\repos\PooEjemplo4\PooEjemplo4\bin\Debug\net6.0\PooEjemplo4.dll
+C:\Users\BB7211\source\repos\PooEjemplo4\PooEjemplo4\bin\Debug\net6.0\PooEjemplo4.pdb
+C:\Users\BB7211\source\repos\PooEjemplo4\PooEjemplo4\obj\Debug\net6.0\PooEjemplo4.dll
+C:\Users\BB7211\source\repos\PooEjemplo4\PooEjemplo4\obj\Debug\net6.0\refint\PooEjemplo4.dll
+C:\Users\BB7211\source\repos\PooEjemplo4\PooEjemplo4\obj\Debug\net6.0\PooEjemplo4.pdb
+C:\Users\BB7211\source\repos\PooEjemplo4\PooEjemplo4\obj\Debug\net6.0\PooEjemplo4.genruntimeconfig.cache
+C:\Users\BB7211\source\repos\PooEjemplo4\PooEjemplo4\obj\Debug\net6.0\ref\PooEjemplo4.dll
