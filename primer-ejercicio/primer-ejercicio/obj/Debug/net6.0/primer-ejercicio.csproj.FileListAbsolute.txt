@@ -12,3 +12,4 @@ C:\Users\BB7211\source\repos\primer-ejercicio\primer-ejercicio\obj\Debug\net6.0\
 C:\Users\BB7211\source\repos\primer-ejercicio\primer-ejercicio\obj\Debug\net6.0\primer-ejercicio.pdb
 C:\Users\BB7211\source\repos\primer-ejercicio\primer-ejercicio\obj\Debug\net6.0\primer-ejercicio.genruntimeconfig.cache
 C:\Users\BB7211\source\repos\primer-ejercicio\primer-ejercicio\obj\Debug\net6.0\ref\primer-ejercicio.dll
+C:\Users\BB7211\source\repos\primer-ejercicio\primer-ejercicio\obj\Debug\net6.0\primer-ejercicio.sourcelink.json

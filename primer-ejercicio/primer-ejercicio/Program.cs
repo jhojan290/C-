@@ -23,7 +23,7 @@ namespace PrimerEjercicio
             Console.WriteLine("Tiene la edad de " + ++edad + " años"); // para aumentar en uno desde el console.writeline y concatenar los resultados
             // se usa el simbolo ++ como sufijo para que aumente el valor de edad, ya que c# se lee de derecha a izquierda
 
-
+           
         }
     }
 }

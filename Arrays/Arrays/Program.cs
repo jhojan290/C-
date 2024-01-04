@@ -70,10 +70,27 @@
             //    Console.WriteLine(valores[i]);
             //}
 
-            for (int i = 0; i <= arrayEmpleados.Length; i++) // metodos de la clase array, con .lenght recorro todo el array
-            {
-                Console.WriteLine(arrayEmpleados[i]);
-            }
+
+
+            //for (int i = 0; i <= arrayEmpleados.Length; i++) // metodos de la clase array, con .lenght recorro todo el array
+            //{
+            //    Console.WriteLine(arrayEmpleados[i].getInfo()); // Manera de mostrar un objeto
+            //}
+
+            //foreach(Empleados variable in arrayEmpleados) // Manera de recorrer un array de objetos con un foreach
+            //{
+            //    Console.WriteLine(variable.getInfo());
+            //}
+
+            //foreach(double variable in valores) // Manera de recorrer un array implicito con un foreach
+            //{
+            //    Console.WriteLine(variable);
+            //}
+
+            //foreach(var variable in personas) // Manera de recorrer un array anónimo con un foreach
+            //{
+            //    Console.WriteLine(variable);
+            //}
         }
 
     }
@@ -84,11 +101,15 @@
         {
             this.nombre = nombre;
             this.edad = edad;
-
         }
 
-        String nombre;
-        int edad;
+        public String getInfo()
+        {
+            return "Nombre del empleado: " + nombre + " edad: " + edad;
+        }
+
+        private String nombre;
+        private int edad;
     }
 
 }
