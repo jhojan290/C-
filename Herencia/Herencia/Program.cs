@@ -1,6 +1,4 @@
-﻿using System.Linq.Expressions;
-using System.Security;
-
+﻿
 namespace Herencia
 {
     class Program
@@ -21,14 +19,37 @@ namespace Herencia
 
             Copito.getNombre();*/
 
-            Mamiferos Hum = new Humano("Pedro"); // Principio de sustitución 
+            /*Mamiferos Hum = new Humano("Pedro"); */// Principio de sustitución 
 
             Mamiferos[] arrayObjetos = new Caballo[3];
+
+            //Caballo[] arrayNulo = new Caballo[3];
+
             //Mamiferos[] arrayObjetos = new Mamiferos[3]; 
 
-            arrayObjetos[0] = Babieca;
+            //arrayObjetos[0] = Babieca;
 
-            arrayObjetos[1] = Juan;
+            //arrayObjetos[1] = Juan;
+
+            arrayObjetos[2] = Copito; // Se pueden asignar objetos de otras clases a este array debido a que existe una herencia entre clases
+
+           /* arrayNulo[2] = Copito; */// Si intento almacenar objetos de otras clases en clases que no tienen herencia o relación entre sí, de inmediato se mostrará un error
+
+            Mamiferos x = new Mamiferos("ñu");
+
+            Caballo pony = new Caballo("pony");
+
+            x = pony; // creando un objeto por clase para despues asignar el objeto de clase Caballo al objeto de clase Mamiferos
+
+            Mamiferos[] almacenamientoArray = new Mamiferos[3];
+
+            almacenamientoArray[0] = Babieca;
+
+            almacenamientoArray[1] = Juan;
+
+            almacenamientoArray[2] = Copito;
+
+            almacenamientoArray[1].getNombre();
         }
 
     }
@@ -42,7 +63,7 @@ namespace Herencia
 
         public void respirar()
         {
-            Console.WriteLine("Soy capax de respirar");
+            Console.WriteLine("Soy capaz de respirar");
         }
 
         public void cuidarCrias()
@@ -68,7 +89,8 @@ namespace Herencia
         public void galopar()
         {
             Console.WriteLine("Soy capaz de galopar");
-        }
+
+        } 
     }
 
     class Humano : Mamiferos
@@ -103,7 +125,7 @@ namespace Herencia
 
     // Hay que tener claro el concepto del (es-un) para generar la herencia entre clases y tengan un sentido.
 
-    //-----------------------------------------------------------------
+    //--------------------------------------------------------------------------
 
     // El principio de sustitución tiene en cuenta el (siempre-es-un) para construir la jerarquia de clases para así definir que clases
     // deben heredar de otras
