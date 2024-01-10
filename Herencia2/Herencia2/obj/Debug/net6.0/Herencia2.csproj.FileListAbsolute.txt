@@ -1,0 +1,15 @@
+C:\Users\BB7211\source\repos\Herencia2\Herencia2\bin\Debug\net6.0\Herencia2.exe
+C:\Users\BB7211\source\repos\Herencia2\Herencia2\bin\Debug\net6.0\Herencia2.deps.json
+C:\Users\BB7211\source\repos\Herencia2\Herencia2\bin\Debug\net6.0\Herencia2.runtimeconfig.json
+C:\Users\BB7211\source\repos\Herencia2\Herencia2\bin\Debug\net6.0\Herencia2.dll
+C:\Users\BB7211\source\repos\Herencia2\Herencia2\bin\Debug\net6.0\Herencia2.pdb
+C:\Users\BB7211\source\repos\Herencia2\Herencia2\obj\Debug\net6.0\Herencia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BB7211\source\repos\Herencia2\Herencia2\obj\Debug\net6.0\Herencia2.AssemblyInfoInputs.cache
+C:\Users\BB7211\source\repos\Herencia2\Herencia2\obj\Debug\net6.0\Herencia2.AssemblyInfo.cs
+C:\Users\BB7211\source\repos\Herencia2\Herencia2\obj\Debug\net6.0\Herencia2.csproj.CoreCompileInputs.cache
+C:\Users\BB7211\source\repos\Herencia2\Herencia2\obj\Debug\net6.0\Herencia2.sourcelink.json
+C:\Users\BB7211\source\repos\Herencia2\Herencia2\obj\Debug\net6.0\Herencia2.dll
+C:\Users\BB7211\source\repos\Herencia2\Herencia2\obj\Debug\net6.0\refint\Herencia2.dll
+C:\Users\BB7211\source\repos\Herencia2\Herencia2\obj\Debug\net6.0\Herencia2.pdb
+C:\Users\BB7211\source\repos\Herencia2\Herencia2\obj\Debug\net6.0\Herencia2.genruntimeconfig.cache
+C:\Users\BB7211\source\repos\Herencia2\Herencia2\obj\Debug\net6.0\ref\Herencia2.dll

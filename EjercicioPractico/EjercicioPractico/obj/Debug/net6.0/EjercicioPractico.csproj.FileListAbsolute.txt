@@ -1,0 +1,15 @@
+C:\Users\BB7211\source\repos\EjercicioPractico\EjercicioPractico\bin\Debug\net6.0\EjercicioPractico.exe
+C:\Users\BB7211\source\repos\EjercicioPractico\EjercicioPractico\bin\Debug\net6.0\EjercicioPractico.deps.json
+C:\Users\BB7211\source\repos\EjercicioPractico\EjercicioPractico\bin\Debug\net6.0\EjercicioPractico.runtimeconfig.json
+C:\Users\BB7211\source\repos\EjercicioPractico\EjercicioPractico\bin\Debug\net6.0\EjercicioPractico.dll
+C:\Users\BB7211\source\repos\EjercicioPractico\EjercicioPractico\bin\Debug\net6.0\EjercicioPractico.pdb
+C:\Users\BB7211\source\repos\EjercicioPractico\EjercicioPractico\obj\Debug\net6.0\EjercicioPractico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BB7211\source\repos\EjercicioPractico\EjercicioPractico\obj\Debug\net6.0\EjercicioPractico.AssemblyInfoInputs.cache
+C:\Users\BB7211\source\repos\EjercicioPractico\EjercicioPractico\obj\Debug\net6.0\EjercicioPractico.AssemblyInfo.cs
+C:\Users\BB7211\source\repos\EjercicioPractico\EjercicioPractico\obj\Debug\net6.0\EjercicioPractico.csproj.CoreCompileInputs.cache
+C:\Users\BB7211\source\repos\EjercicioPractico\EjercicioPractico\obj\Debug\net6.0\EjercicioPractico.sourcelink.json
+C:\Users\BB7211\source\repos\EjercicioPractico\EjercicioPractico\obj\Debug\net6.0\EjercicioPractico.dll
+C:\Users\BB7211\source\repos\EjercicioPractico\EjercicioPractico\obj\Debug\net6.0\refint\EjercicioPractico.dll
+C:\Users\BB7211\source\repos\EjercicioPractico\EjercicioPractico\obj\Debug\net6.0\EjercicioPractico.pdb
+C:\Users\BB7211\source\repos\EjercicioPractico\EjercicioPractico\obj\Debug\net6.0\EjercicioPractico.genruntimeconfig.cache
+C:\Users\BB7211\source\repos\EjercicioPractico\EjercicioPractico\obj\Debug\net6.0\ref\EjercicioPractico.dll
