@@ -1,0 +1,15 @@
+C:\Users\BB7211\source\repos\Abstractas\Abstractas\bin\Debug\net6.0\Abstractas.exe
+C:\Users\BB7211\source\repos\Abstractas\Abstractas\bin\Debug\net6.0\Abstractas.deps.json
+C:\Users\BB7211\source\repos\Abstractas\Abstractas\bin\Debug\net6.0\Abstractas.runtimeconfig.json
+C:\Users\BB7211\source\repos\Abstractas\Abstractas\bin\Debug\net6.0\Abstractas.dll
+C:\Users\BB7211\source\repos\Abstractas\Abstractas\bin\Debug\net6.0\Abstractas.pdb
+C:\Users\BB7211\source\repos\Abstractas\Abstractas\obj\Debug\net6.0\Abstractas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BB7211\source\repos\Abstractas\Abstractas\obj\Debug\net6.0\Abstractas.AssemblyInfoInputs.cache
+C:\Users\BB7211\source\repos\Abstractas\Abstractas\obj\Debug\net6.0\Abstractas.AssemblyInfo.cs
+C:\Users\BB7211\source\repos\Abstractas\Abstractas\obj\Debug\net6.0\Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\BB7211\source\repos\Abstractas\Abstractas\obj\Debug\net6.0\Abstractas.sourcelink.json
+C:\Users\BB7211\source\repos\Abstractas\Abstractas\obj\Debug\net6.0\Abstractas.dll
+C:\Users\BB7211\source\repos\Abstractas\Abstractas\obj\Debug\net6.0\refint\Abstractas.dll
+C:\Users\BB7211\source\repos\Abstractas\Abstractas\obj\Debug\net6.0\Abstractas.pdb
+C:\Users\BB7211\source\repos\Abstractas\Abstractas\obj\Debug\net6.0\Abstractas.genruntimeconfig.cache
+C:\Users\BB7211\source\repos\Abstractas\Abstractas\obj\Debug\net6.0\ref\Abstractas.dll
