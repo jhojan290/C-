@@ -1,0 +1,15 @@
+C:\Users\BB7211\source\repos\PropiedadesAcceso\PropiedadesAcceso\bin\Debug\net6.0\PropiedadesAcceso.exe
+C:\Users\BB7211\source\repos\PropiedadesAcceso\PropiedadesAcceso\bin\Debug\net6.0\PropiedadesAcceso.deps.json
+C:\Users\BB7211\source\repos\PropiedadesAcceso\PropiedadesAcceso\bin\Debug\net6.0\PropiedadesAcceso.runtimeconfig.json
+C:\Users\BB7211\source\repos\PropiedadesAcceso\PropiedadesAcceso\bin\Debug\net6.0\PropiedadesAcceso.dll
+C:\Users\BB7211\source\repos\PropiedadesAcceso\PropiedadesAcceso\bin\Debug\net6.0\PropiedadesAcceso.pdb
+C:\Users\BB7211\source\repos\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\net6.0\PropiedadesAcceso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BB7211\source\repos\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\net6.0\PropiedadesAcceso.AssemblyInfoInputs.cache
+C:\Users\BB7211\source\repos\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\net6.0\PropiedadesAcceso.AssemblyInfo.cs
+C:\Users\BB7211\source\repos\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\net6.0\PropiedadesAcceso.csproj.CoreCompileInputs.cache
+C:\Users\BB7211\source\repos\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\net6.0\PropiedadesAcceso.sourcelink.json
+C:\Users\BB7211\source\repos\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\net6.0\PropiedadesAcceso.dll
+C:\Users\BB7211\source\repos\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\net6.0\refint\PropiedadesAcceso.dll
+C:\Users\BB7211\source\repos\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\net6.0\PropiedadesAcceso.pdb
+C:\Users\BB7211\source\repos\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\net6.0\PropiedadesAcceso.genruntimeconfig.cache
+C:\Users\BB7211\source\repos\PropiedadesAcceso\PropiedadesAcceso\obj\Debug\net6.0\ref\PropiedadesAcceso.dll

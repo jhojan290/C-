@@ -1,42 +1,10 @@
 ﻿
-namespace Interfaces2
+namespace Abstractas
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //Caballo Babieca = new Caballo("Babieca");
-
-            //IMamiferosTerrestres ImiBabieca = Babieca;
-
-            //ISaltoConPatas Babi = Babieca;
-
-            //Humano Juan = new Humano("Juan");
-
-            //Gorila Copito = new Gorila("Copito");
-
-
-            //Mamiferos[] almacenamientoArray = new Mamiferos[3];
-
-            //almacenamientoArray[0] = Babieca;
-
-            //almacenamientoArray[1] = Juan;
-
-            //almacenamientoArray[2] = Copito;
-
-            //for (int i = 0; i < 3; i++)
-            //{
-            //    almacenamientoArray[i].pensar();
-            //}
-
-            //Ballena miWally = new Ballena("Wally");
-
-            //miWally.nadar();
-
-            //Console.WriteLine("El número de patas de Babieca es: " + ImiBabieca.numeroPatas());
-
-            //Console.WriteLine("Cantidad de patas que usa babieca para saltar: " + Babi.numeroPatas());
-
             Lagartija Juancho = new Lagartija("Juancho");
 
             //Juancho.respirar();
@@ -50,8 +18,6 @@ namespace Interfaces2
             Juan.getNombre();
         }
     }
-
-
 
     interface IMamiferosTerrestres
     {
@@ -77,7 +43,6 @@ namespace Interfaces2
         }
 
         public abstract void getNombre();
-
 
     }
 
@@ -177,14 +142,14 @@ namespace Interfaces2
 
         }
 
-        public override void pensar()
+        public sealed override void pensar() // Con esta sentencia sealed se hace que el método no se pueda sobreescribir en otra clase
         {
             Console.WriteLine("Soy capaz de pensar");
         }
 
     }
 
-    class Gorila : Mamiferos, IMamiferosTerrestres
+    sealed class Gorila : Mamiferos, IMamiferosTerrestres // Usando sealed se impide que de esta clase se pueda heredar
     {
         public Gorila(String nombreGorila) : base(nombreGorila)
         {
@@ -205,8 +170,28 @@ namespace Interfaces2
             return 2;
         }
 
-
     }
+
+    class Adolescente : Humano
+    {
+        Adolescente(string nombreAdolescente) : base(nombreAdolescente)
+        {
+            
+        }
+
+        public override void pensar()
+        {
+            Console.WriteLine("Las xd");
+        }
+    }
+
+    //class Chimpance : Gorila // sale un error porque la clase de la que se hereda es sealed
+    //{
+    //    public Chimpance(string nombreChimpance): base(nombreChimpance)
+    //    {   
+
+    //    }
+    //}
 
 }
 
