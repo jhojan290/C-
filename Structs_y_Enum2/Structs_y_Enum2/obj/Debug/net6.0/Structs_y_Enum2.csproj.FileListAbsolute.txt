@@ -1,0 +1,15 @@
+C:\Users\BB7211\source\repos\Structs_y_Enum2\Structs_y_Enum2\bin\Debug\net6.0\Structs_y_Enum2.exe
+C:\Users\BB7211\source\repos\Structs_y_Enum2\Structs_y_Enum2\bin\Debug\net6.0\Structs_y_Enum2.deps.json
+C:\Users\BB7211\source\repos\Structs_y_Enum2\Structs_y_Enum2\bin\Debug\net6.0\Structs_y_Enum2.runtimeconfig.json
+C:\Users\BB7211\source\repos\Structs_y_Enum2\Structs_y_Enum2\bin\Debug\net6.0\Structs_y_Enum2.dll
+C:\Users\BB7211\source\repos\Structs_y_Enum2\Structs_y_Enum2\bin\Debug\net6.0\Structs_y_Enum2.pdb
+C:\Users\BB7211\source\repos\Structs_y_Enum2\Structs_y_Enum2\obj\Debug\net6.0\Structs_y_Enum2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BB7211\source\repos\Structs_y_Enum2\Structs_y_Enum2\obj\Debug\net6.0\Structs_y_Enum2.AssemblyInfoInputs.cache
+C:\Users\BB7211\source\repos\Structs_y_Enum2\Structs_y_Enum2\obj\Debug\net6.0\Structs_y_Enum2.AssemblyInfo.cs
+C:\Users\BB7211\source\repos\Structs_y_Enum2\Structs_y_Enum2\obj\Debug\net6.0\Structs_y_Enum2.csproj.CoreCompileInputs.cache
+C:\Users\BB7211\source\repos\Structs_y_Enum2\Structs_y_Enum2\obj\Debug\net6.0\Structs_y_Enum2.sourcelink.json
+C:\Users\BB7211\source\repos\Structs_y_Enum2\Structs_y_Enum2\obj\Debug\net6.0\Structs_y_Enum2.dll
+C:\Users\BB7211\source\repos\Structs_y_Enum2\Structs_y_Enum2\obj\Debug\net6.0\refint\Structs_y_Enum2.dll
+C:\Users\BB7211\source\repos\Structs_y_Enum2\Structs_y_Enum2\obj\Debug\net6.0\Structs_y_Enum2.pdb
+C:\Users\BB7211\source\repos\Structs_y_Enum2\Structs_y_Enum2\obj\Debug\net6.0\Structs_y_Enum2.genruntimeconfig.cache
+C:\Users\BB7211\source\repos\Structs_y_Enum2\Structs_y_Enum2\obj\Debug\net6.0\ref\Structs_y_Enum2.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Structs_y_Enum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dd65be587d5d29863b6fc169ee8d38bdfde694b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Structs_y_Enum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Structs_y_Enum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
