@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BB7211\\source\\repos\\TercerEjercicio\\TercerEjercicio\\TercerEjercicio.csproj": {}
+    "C:\\Users\\jhoja\\OneDrive\\Documentos\\C-sharp\\TercerEjercicio\\TercerEjercicio\\TercerEjercicio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BB7211\\source\\repos\\TercerEjercicio\\TercerEjercicio\\TercerEjercicio.csproj": {
+    "C:\\Users\\jhoja\\OneDrive\\Documentos\\C-sharp\\TercerEjercicio\\TercerEjercicio\\TercerEjercicio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BB7211\\source\\repos\\TercerEjercicio\\TercerEjercicio\\TercerEjercicio.csproj",
+        "projectUniqueName": "C:\\Users\\jhoja\\OneDrive\\Documentos\\C-sharp\\TercerEjercicio\\TercerEjercicio\\TercerEjercicio.csproj",
         "projectName": "TercerEjercicio",
-        "projectPath": "C:\\Users\\BB7211\\source\\repos\\TercerEjercicio\\TercerEjercicio\\TercerEjercicio.csproj",
-        "packagesPath": "C:\\Users\\BB7211\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BB7211\\source\\repos\\TercerEjercicio\\TercerEjercicio\\obj\\",
+        "projectPath": "C:\\Users\\jhoja\\OneDrive\\Documentos\\C-sharp\\TercerEjercicio\\TercerEjercicio\\TercerEjercicio.csproj",
+        "packagesPath": "C:\\Users\\jhoja\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhoja\\OneDrive\\Documentos\\C-sharp\\TercerEjercicio\\TercerEjercicio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\BB7211\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jhoja\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     }

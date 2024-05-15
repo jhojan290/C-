@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NovenaEjercicio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db53c45e77ed53d4e30d0391362ae333c76775f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("NovenaEjercicio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NovenaEjercicio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

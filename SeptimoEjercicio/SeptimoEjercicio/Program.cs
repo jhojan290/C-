@@ -34,7 +34,7 @@
 
             //int numeroAleatorio = numero.Next(1, 100);
 
-            //int cont = 0;s
+            //int cont = 0;
 
             //while (true)
             //{
@@ -42,12 +42,14 @@
 
             //    int num = Int32.Parse(Console.ReadLine());
 
-            //    if(num > numeroAleatorio)
+            //    cont++;
+
+            //    if (num > numeroAleatorio)
             //    {
             //        Console.WriteLine("el numero que digito es mayor al número aleatorio");
             //    }
 
-            //    else if(num < numeroAleatorio)
+            //    else if (num < numeroAleatorio)
             //    {
             //        Console.WriteLine("el numero que digito es menor al número aleatorio");
             //    }
@@ -57,8 +59,6 @@
             //        Console.WriteLine("el número es igual al generado");
 
             //        Console.WriteLine($"El número generado era {numeroAleatorio}");
-
-            //        cont++;
 
             //        Console.WriteLine($"Intento encontrar el número un total de {cont} veces");
 
@@ -76,7 +76,7 @@
 
             //Random numero = new Random();
 
-            //int aleatorio = numero.Next(1,100);
+            //int aleatorio = numero.Next(1, 100);
 
             //int minumero = 101;
 
@@ -84,7 +84,7 @@
 
             //Console.WriteLine("Introduce un número entre 0 y 100");
 
-            //while(aleatorio != minumero)
+            //while (aleatorio != minumero)
             //{
             //    intentos++;
 
@@ -102,40 +102,41 @@
             // Bucle do while
 
 
-            Random numero = new Random();
+            /*   Random numero = new Random();
 
-            int aleatorio = numero.Next(1, 100);
+               int aleatorio = numero.Next(1, 100);
 
-            int minumero;
+               int minumero;
 
-            int intentos = 0;
+               int intentos = 0;
 
-            Console.WriteLine("Introduce un número entre 0 y 100");
+               Console.WriteLine("Introduce un número entre 0 y 100");
 
 
-            do
-            {
-                intentos++;
+               do
+               {
+                   intentos++;
 
-                minumero = int.Parse(Console.ReadLine());
+                   minumero = int.Parse(Console.ReadLine());
 
-                if (minumero > aleatorio) Console.WriteLine("El n° es más bajo");
+                   if (minumero > aleatorio) Console.WriteLine("El n° es más bajo");
 
-                if (minumero < aleatorio) Console.WriteLine("El n° es más alto");
+                   if (minumero < aleatorio) Console.WriteLine("El n° es más alto");
 
-            } while (aleatorio != minumero);
+               } while (aleatorio != minumero);
 
-                Console.WriteLine($"Correcto has necesitado {intentos} intentos");
+                   Console.WriteLine($"Correcto has necesitado {intentos} intentos");
+
+           }*/
+
+            //El bucle do-while en C# es una estructura de control de flujo que ejecuta un bloque de código
+            //repetidamente mientras una condición especificada sea verdadera. A diferencia del bucle while, el bucle do-while
+            //garantiza que el bloque de código se ejecute al menos una vez antes de verificar la condición. Aquí tienes la estructura
+            //básica del bucle do-while en C#:
+
+
 
         }
-
-        //El bucle do-while en C# es una estructura de control de flujo que ejecuta un bloque de código
-        //repetidamente mientras una condición especificada sea verdadera. A diferencia del bucle while, el bucle do-while
-        //garantiza que el bloque de código se ejecute al menos una vez antes de verificar la condición. Aquí tienes la estructura
-        //básica del bucle do-while en C#:
-
-
-
     }
 }
 

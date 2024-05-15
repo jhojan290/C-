@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "6aTMTZroZp1V45J2lqxHYJGEMj1+4YwRu0aeQ/pm/wEfCFcdB0j8P1OQa7F9Jsvxsma1RxzfDCffJFZ8TF/B7Q==",
+  "dgSpecHash": "798DLAPLeJgkD4NzXc4SXJVbvhobukic1AYVBjiQ0BJS3kuvwBVDkEezfipOGzFn0T0YNhBpBWa45mzs4mzwzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BB7211\\source\\repos\\primer-ejercicio\\primer-ejercicio\\primer-ejercicio.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\jhoja\\OneDrive\\Documentos\\C-sharp\\primer-ejercicio\\primer-ejercicio\\primer-ejercicio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhoja\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\jhoja\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\jhoja\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\jhoja\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.30\\microsoft.netcore.app.host.win-x64.6.0.30.nupkg.sha512"
+  ],
   "logs": []
 }

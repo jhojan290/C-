@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\BB7211\\.nuget\\packages\\": {}
+    "C:\\Users\\jhoja\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BB7211\\source\\repos\\SextoEjercicio\\SextoEjercicio\\SextoEjercicio.csproj",
+      "projectUniqueName": "C:\\Users\\jhoja\\OneDrive\\Documentos\\C-sharp\\SextoEjercicio\\SextoEjercicio\\SextoEjercicio.csproj",
       "projectName": "SextoEjercicio",
-      "projectPath": "C:\\Users\\BB7211\\source\\repos\\SextoEjercicio\\SextoEjercicio\\SextoEjercicio.csproj",
-      "packagesPath": "C:\\Users\\BB7211\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BB7211\\source\\repos\\SextoEjercicio\\SextoEjercicio\\obj\\",
+      "projectPath": "C:\\Users\\jhoja\\OneDrive\\Documentos\\C-sharp\\SextoEjercicio\\SextoEjercicio\\SextoEjercicio.csproj",
+      "packagesPath": "C:\\Users\\jhoja\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jhoja\\OneDrive\\Documentos\\C-sharp\\SextoEjercicio\\SextoEjercicio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\BB7211\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jhoja\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
       }
     }
   }
